@@ -1,0 +1,5 @@
+#The time in ticks in which a player can still be rescued from death. 20 ticks are one second. Set to 0 to disable the timer.
+#Range: > -2147483648
+ticksUntilDeath = 2400
+continueTimerWhileOffline = false
+

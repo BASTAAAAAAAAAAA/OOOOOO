@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "e8623d8d-465b-4988-b231-69460ee87131",
+    "name": "lvnae",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "791753db-d7de-4bfc-8696-127bf4332777",
+    "name": "Lvpvss",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "1eb99947-2e50-4802-b84a-ed2c46a1c3d1",
+    "name": "lvpvs",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "1ba8441a-33cb-4dc4-ba4a-6b834fba6444",
+    "name": "lvane",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
